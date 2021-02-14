@@ -5,7 +5,7 @@ implementing Style Transfer Algo such as NST and cyclegan.
 
 Easy to deploy on free heroku account.
 
-My telegram: @KusokMIPT, feel free to ask or suggest anything you want. 
+My telegram: [@KusokMIPT](https://t.me/KusokMIPT), feel free to ask or suggest anything you want. 
 
 Example:
 
